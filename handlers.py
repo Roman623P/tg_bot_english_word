@@ -426,7 +426,8 @@ def deferReminder():
 
 command_handlers = {
     '/start': {'handler': start},
-    '✍ Начать тест': {'handler': startTest, 'state': States.DEFAULT},
+    '
+Давайте начнем тест.': {'handler': startTest, 'state': States.DEFAULT},
     '📊 Статистика': {'handler': statictics, 'state': States.DEFAULT},
     '🛠 Настройка параметров': {'handler': paramsSetting, 'state': States.DEFAULT},
     '🏁 Досрочно завершить тест': {'handler': finishTest, 'state': States.TEST_STATE},
