@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Подводный мир",
+    "description": "Разнообразие жизни в океанах, их обитатели и особенности морской флоры и фауны.",
+    "words": [
+      {
+        "word": "Coral",
+        "translation": "Коралл",
+        "usage_example": "The Great Barrier Reef is known for its vast coral formations.",
+        "usage_example_translation": "Большой Барьерный риф известен своими обширными коралловыми образованиями."
+      },
+      {
+        "word": "Shark",
+        "translation": "Акула",
+        "usage_example": "Sharks have a reputation for being fierce predators.",
+        "usage_example_translation": "Акулы имеют репутацию свирепых хищников."
+      },
+      {
+        "word": "Dolphin",
+        "translation": "Дельфин",
+        "usage_example": "Dolphins are highly intelligent marine mammals.",
+        "usage_example_translation": "Дельфины - очень умные морские млекопитающие."
+      },
+      {
+        "word": "Tide",
+        "translation": "Прилив",
+        "usage_example": "The tide is high, let's go for a swim.",
+        "usage_example_translation": "Прилив высокий, пошли купаться."
+      },
+      {
+        "word": "Algae",
+        "translation": "Водоросли",
+        "usage_example": "Algae play a crucial role in oceanic ecosystems.",
+        "usage_example_translation": "Водоросли играют важную роль в океанических экосистемах."
+      },
+      {
+        "word": "Octopus",
+        "translation": "Осьминог",
+        "usage_example": "An octopus can escape predators by releasing ink.",
+        "usage_example_translation": "Осьминог может убежать от хищников, выпустив чернила."
+      },
+      {
+        "word": "Submarine",
+        "translation": "Подводная лодка",
+        "usage_example": "The submarine dived deep to explore the ocean floor.",
+        "usage_example_translation": "Подводная лодка погрузилась на большую глубину, чтобы исследовать дно океана."
+      },
+      {
+        "word": "Anchor",
+        "translation": "Якорь",
+        "usage_example": "The ship dropped its anchor near the shore.",
+        "usage_example_translation": "Корабль опустил якорь у берега."
+      },
+      {
+        "word": "Seaweed",
+        "translation": "Морская трава",
+        "usage_example": "Seaweed is often used in Asian cuisine.",
+        "usage_example_translation": "Морская трава часто используется в азиатской кухне."
+      },
+      {
+        "word": "Abyss",
+        "translation": "Бездна",
+        "usage_example": "The deep sea abyss is home to many strange creatures.",
+        "usage_example_translation": "В глубоководной бездне обитает множество странных существ."
+      }
+    ]
+  },
+  {
+    "title": "Космические путешествия",
+    "description": "Исследование космоса, космические корабли, астронавты и технологии, позволяющие путешествовать за пределы Земли.",
+    "words": [
+      {
+        "word": "Spaceship",
+        "translation": "Космический корабль",
+        "usage_example": "The spaceship is ready to launch into orbit.",
+        "usage_example_translation": "Космический корабль готов к запуску на орбиту."
+      },
+      {
+        "word": "Astronaut",
+        "translation": "Астронавт",
+        "usage_example": "The astronaut is training for the next space mission.",
+               "usage_example_translation": "Астронавт тренируется для следующей космической миссии."
+      },
+      {
+        "word": "Galaxy",
+        "translation": "Галактика",
+        "usage_example": "Our solar system is located in the Milky Way galaxy.",
+        "usage_example_translation": "Наша солнечная система находится в галактике Млечный Путь."
+      },
+      {
+        "word": "Rocket",
+        "translation": "Ракета",
+        "usage_example": "The rocket blasted off carrying satellites into space.",
+        "usage_example_translation": "Ракета стартовала, вынося спутники в космос."
+      },
+      {
+        "word": "Black Hole",
+        "translation": "Черная дыра",
+        "usage_example": "A black hole has a gravitational pull that not even light can escape.",
+        "usage_example_translation": "Черная дыра имеет гравитационное притяжение, от которого не может уйти даже свет."
+      },
+      {
+        "word": "Orbit",
+        "translation": "Орбита",
+        "usage_example": "The satellite entered a stable orbit around the Earth.",
+        "usage_example_translation": "Спутник вышел на стабильную орбиту вокруг Земли."
+      },
+      {
+        "word": "Meteor",
+        "translation": "Метеор",
+        "usage_example": "A meteor shower is a celestial event where numerous meteors are observed to radiate.",
+        "usage_example_translation": "Метеорный дождь - это небесное явление, при котором наблюдается излучение множества метеоров."
+      },
+      {
+        "word": "Telescope",
+        "translation": "Телескоп",
+        "usage_example": "Astronomers use telescopes to observe distant galaxies.",
+        "usage_example_translation": "Астрономы используют телескопы для наблюдения за далекими галактиками."
+      },
+      {
+        "word": "Gravity",
+        "translation": "Гравитация",
+        "usage_example": "Gravity is what keeps us grounded on Earth.",
+        "usage_example_translation": "Гравитация - это то, что удерживает нас на Земле."
+      },
+      {
+        "word": "Space Suit",
+        "translation": "Скафандр",
+        "usage_example": "The astronaut put on her space suit before the spacewalk.",
+        "usage_example_translation": "Астронавт надел скафандр перед выходом в открытый космос."
+      },
+      {
+        "word": "Nebula",
+        "translation": "Туманность",
+        "usage_example": "The Orion Nebula is one of the brightest nebulae visible to the naked eye in the night sky.",
+        "usage_example_translation": "Туманность Ориона - одна из самых ярких туманностей, видимых невооруженным глазом в ночном небе."
+      }
+    ]
+  }
+]

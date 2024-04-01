@@ -1,1 +1,3 @@
-# tg_bot_english_word
+# English-words-telegram-bot
+
+Бот для заучивания слов английского языка
