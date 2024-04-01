@@ -1,140 +1,133 @@
 [
   {
-    "title": "Подводный мир",
-    "description": "Разнообразие жизни в океанах, их обитатели и особенности морской флоры и фауны.",
-    "words": [
-      {
-        "word": "Coral",
-        "translation": "Коралл",
-        "usage_example": "The Great Barrier Reef is known for its vast coral formations.",
-        "usage_example_translation": "Большой Барьерный риф известен своими обширными коралловыми образованиями."
-      },
-      {
-        "word": "Shark",
-        "translation": "Акула",
-        "usage_example": "Sharks have a reputation for being fierce predators.",
-        "usage_example_translation": "Акулы имеют репутацию свирепых хищников."
-      },
-      {
-        "word": "Dolphin",
-        "translation": "Дельфин",
-        "usage_example": "Dolphins are highly intelligent marine mammals.",
-        "usage_example_translation": "Дельфины - очень умные морские млекопитающие."
-      },
-      {
-        "word": "Tide",
-        "translation": "Прилив",
-        "usage_example": "The tide is high, let's go for a swim.",
-        "usage_example_translation": "Прилив высокий, пошли купаться."
-      },
-      {
-        "word": "Algae",
-        "translation": "Водоросли",
-        "usage_example": "Algae play a crucial role in oceanic ecosystems.",
-        "usage_example_translation": "Водоросли играют важную роль в океанических экосистемах."
-      },
-      {
-        "word": "Octopus",
-        "translation": "Осьминог",
-        "usage_example": "An octopus can escape predators by releasing ink.",
-        "usage_example_translation": "Осьминог может убежать от хищников, выпустив чернила."
-      },
-      {
-        "word": "Submarine",
-        "translation": "Подводная лодка",
-        "usage_example": "The submarine dived deep to explore the ocean floor.",
-        "usage_example_translation": "Подводная лодка погрузилась на большую глубину, чтобы исследовать дно океана."
-      },
-      {
-        "word": "Anchor",
-        "translation": "Якорь",
-        "usage_example": "The ship dropped its anchor near the shore.",
-        "usage_example_translation": "Корабль опустил якорь у берега."
-      },
-      {
-        "word": "Seaweed",
-        "translation": "Морская трава",
-        "usage_example": "Seaweed is often used in Asian cuisine.",
-        "usage_example_translation": "Морская трава часто используется в азиатской кухне."
-      },
-      {
-        "word": "Abyss",
-        "translation": "Бездна",
-        "usage_example": "The deep sea abyss is home to many strange creatures.",
-        "usage_example_translation": "В глубоководной бездне обитает множество странных существ."
-      }
+    "title": "Органы человева",
+    "description": "Давайте погрузимся в строение человека",
+    "words": [{
+    "word": "heart",
+    "translation": "сердце",
+    "usage_example": "The heart is a vital organ that pumps blood throughout the body.",
+    "usage_example_translation": "Сердце - жизненно важный орган, который перекачивает кровь по всему телу."
+  },
+  {
+    "word": "brain",
+    "translation": "мозг",
+    "usage_example": "The brain is responsible for processing sensory information.",
+    "usage_example_translation": "Мозг отвечает за обработку сенсорной информации."
+  },
+  {
+    "word": "liver",
+    "translation": "печень",
+    "usage_example": "The liver helps to detoxify the blood.",
+    "usage_example_translation": "Печень помогает детоксицировать кровь."
+  },
+  {
+    "word": "lung",
+    "translation": "легкое",
+    "usage_example": "Each lung is crucial for the respiratory system.",
+    "usage_example_translation": "Каждое легкое имеет важное значение для дыхательной системы."
+  },
+  {
+    "word": "stomach",
+    "translation": "желудок",
+    "usage_example": "The stomach plays a key role in digestion.",
+    "usage_example_translation": "Желудок играет ключевую роль в пищеварении."
+  },
+  {
+    "word": "kidney",
+    "translation": "почка",
+    "usage_example": "The kidneys filter waste from the blood.",
+    "usage_example_translation": "Почки фильтруют отходы из крови."
+  },
+  {
+    "word": "intestine",
+    "translation": "кишечник",
+    "usage_example": "The small intestine absorbs nutrients from food.",
+    "usage_example_translation": "Тонкий кишечник всасывает питательные вещества из пищи."
+  },
+  {
+    "word": "skin",
+    "translation": "кожа",
+    "usage_example": "The skin is the largest organ of the human body.",
+    "usage_example_translation": "Кожа - самый большой орган человеческого тела."
+  },
+  {
+    "word": "muscle",
+    "translation": "мышца",
+    "usage_example": "Muscles provide the force needed for movement.",
+    "usage_example_translation": "Мышцы обеспечивают силу, необходимую для движения."
+  },
+  {
+    "word": "spine",
+    "translation": "позвоночник",
+    "usage_example": "The spine supports the body and protects the spinal cord.",
+    "usage_example_translation": "Позвоночник поддерживает тело и защищает спинной мозг."
+  }
     ]
   },
   {
-    "title": "Космические путешествия",
-    "description": "Исследование космоса, космические корабли, астронавты и технологии, позволяющие путешествовать за пределы Земли.",
+    "title": "Морские обитатели",
+    "description": "Кто живет в воде",
     "words": [
-      {
-        "word": "Spaceship",
-        "translation": "Космический корабль",
-        "usage_example": "The spaceship is ready to launch into orbit.",
-        "usage_example_translation": "Космический корабль готов к запуску на орбиту."
-      },
-      {
-        "word": "Astronaut",
-        "translation": "Астронавт",
-        "usage_example": "The astronaut is training for the next space mission.",
-               "usage_example_translation": "Астронавт тренируется для следующей космической миссии."
-      },
-      {
-        "word": "Galaxy",
-        "translation": "Галактика",
-        "usage_example": "Our solar system is located in the Milky Way galaxy.",
-        "usage_example_translation": "Наша солнечная система находится в галактике Млечный Путь."
-      },
-      {
-        "word": "Rocket",
-        "translation": "Ракета",
-        "usage_example": "The rocket blasted off carrying satellites into space.",
-        "usage_example_translation": "Ракета стартовала, вынося спутники в космос."
-      },
-      {
-        "word": "Black Hole",
-        "translation": "Черная дыра",
-        "usage_example": "A black hole has a gravitational pull that not even light can escape.",
-        "usage_example_translation": "Черная дыра имеет гравитационное притяжение, от которого не может уйти даже свет."
-      },
-      {
-        "word": "Orbit",
-        "translation": "Орбита",
-        "usage_example": "The satellite entered a stable orbit around the Earth.",
-        "usage_example_translation": "Спутник вышел на стабильную орбиту вокруг Земли."
-      },
-      {
-        "word": "Meteor",
-        "translation": "Метеор",
-        "usage_example": "A meteor shower is a celestial event where numerous meteors are observed to radiate.",
-        "usage_example_translation": "Метеорный дождь - это небесное явление, при котором наблюдается излучение множества метеоров."
-      },
-      {
-        "word": "Telescope",
-        "translation": "Телескоп",
-        "usage_example": "Astronomers use telescopes to observe distant galaxies.",
-        "usage_example_translation": "Астрономы используют телескопы для наблюдения за далекими галактиками."
-      },
-      {
-        "word": "Gravity",
-        "translation": "Гравитация",
-        "usage_example": "Gravity is what keeps us grounded on Earth.",
-        "usage_example_translation": "Гравитация - это то, что удерживает нас на Земле."
-      },
-      {
-        "word": "Space Suit",
-        "translation": "Скафандр",
-        "usage_example": "The astronaut put on her space suit before the spacewalk.",
-        "usage_example_translation": "Астронавт надел скафандр перед выходом в открытый космос."
-      },
-      {
-        "word": "Nebula",
-        "translation": "Туманность",
-        "usage_example": "The Orion Nebula is one of the brightest nebulae visible to the naked eye in the night sky.",
-        "usage_example_translation": "Туманность Ориона - одна из самых ярких туманностей, видимых невооруженным глазом в ночном небе."
-      }
+       {
+    "word": "shark",
+    "translation": "акула",
+    "usage_example": "The shark swam swiftly through the water.",
+    "usage_example_translation": "Акула быстро плыла через воду."
+  },
+  {
+    "word": "dolphin",
+    "translation": "дельфин",
+    "usage_example": "Dolphins are known for their intelligence and playful behavior.",
+    "usage_example_translation": "Дельфины известны своим интеллектом и игривым поведением."
+  },
+  {
+    "word": "whale",
+    "translation": "кит",
+    "usage_example": "The blue whale is the largest animal on the planet.",
+    "usage_example_translation": "Голубой кит является самым большим животным на планете."
+  },
+  {
+    "word": "jellyfish",
+    "translation": "медуза",
+    "usage_example": "A jellyfish can sting with its tentacles.",
+    "usage_example_translation": "Медуза может жалить своими щупальцами."
+  },
+  {
+    "word": "octopus",
+    "translation": "осьминог",
+    "usage_example": "The octopus escaped predators by releasing ink.",
+    "usage_example_translation": "Осьминог убегал от хищников, выпуская чернила."
+  },
+  {
+    "word": "seahorse",
+    "translation": "морской конек",
+    "usage_example": "The seahorse uses its tail to anchor itself to corals.",
+    "usage_example_translation": "Морской конек использует свой хвост, чтобы закрепиться на кораллах."
+  },
+  {
+    "word": "starfish",
+    "translation": "морская звезда",
+    "usage_example": "Starfish have the ability to regenerate lost arms.",
+    "usage_example_translation": "Морские звезды имеют способность регенерировать потерянные руки."
+  },
+  {
+    "word": "coral",
+    "translation": "коралл",
+    "usage_example": "Coral reefs provide habitat for a diverse range of marine life.",
+    "usage_example_translation": "Коралловые рифы предоставляют среду обитания для разнообразной морской жизни."
+  },
+  {
+    "word": "lobster",
+    "translation": "омар",
+    "usage_example": "Lobsters are a popular delicacy in many parts of the world.",
+    "usage_example_translation": "Омары являются популярным деликатесом во многих частях мира."
+  },
+  {
+    "word": "manta ray",
+    "translation": "манта",
+    "usage_example": "The manta ray glides through the ocean with its large wings.",
+    "usage_example_translation": "Манта скользит по океану своими большими крыльями."
+  }
     ]
   }
 ]
