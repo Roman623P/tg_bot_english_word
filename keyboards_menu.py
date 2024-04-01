@@ -39,7 +39,7 @@ setCorrectAnswersNumber_reply_keyboard_markup = {
 # Inline-кнопки
 reminder_inline_keyboard_markup = {
     "inline_keyboard": [
-        [{"text": "Давайте начнем тест.", "callback_data": "Пройти тест"}],
+        [{"text": "✍ Пройти тест", "callback_data": "Пройти тест"}],
         [{"text": "⏰ Отложить напоминание на 30 мин.", "callback_data": "Отложить напоминание на 30 мин."}]
     ]
 }
