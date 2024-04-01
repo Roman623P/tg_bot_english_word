@@ -427,16 +427,16 @@ def deferReminder():
 command_handlers = {
     '/start': {'handler': start},
     'Давайте начнем тест.': {'handler': startTest, 'state': States.DEFAULT},
-    '📊 Статистика': {'handler': statictics, 'state': States.DEFAULT},
-    '🛠 Настройка параметров': {'handler': paramsSetting, 'state': States.DEFAULT},
-    '🏁 Досрочно завершить тест': {'handler': finishTest, 'state': States.TEST_STATE},
-    '📘 Пример использования': {'handler': usageExample, 'state': States.TEST_STATE},
+    'Посмотреть статистику': {'handler': statictics, 'state': States.DEFAULT},
+    'Настроить параметры': {'handler': paramsSetting, 'state': States.DEFAULT},
+    'Досрочно завершить тест': {'handler': finishTest, 'state': States.TEST_STATE},
+    'Пример использования': {'handler': usageExample, 'state': States.TEST_STATE},
     'Выбрать тему': {'handler': setTopic, 'state': States.DEFAULT},
-    '❌ Отменить настройку темы': {'handler': backToMain, 'state': States.GET_TOPIC},
+    'Отменить настройку темы': {'handler': backToMain, 'state': States.GET_TOPIC},
     'Количество вопросов': {'handler': setQuestionsNumber, 'state': States.DEFAULT},
-    '❌ Отменить настройку количества вопросов': {'handler': backToMain, 'state': States.GET_QUESTIONS_NUMBER},
+    'Отменить настройку количества вопросов': {'handler': backToMain, 'state': States.GET_QUESTIONS_NUMBER},
     'Количество правильных ответов': {'handler': setCorrectAnswersNumber, 'state': States.DEFAULT},
-    '❌ Отменить настройку количества правильных ответов': {'handler': backToMain, 'state': States.GET_CORRECT_ANSWERS_NUMBER},
+    'Отменить настройку количества правильных ответов': {'handler': backToMain, 'state': States.GET_CORRECT_ANSWERS_NUMBER},
 }
 
 callback_handlers = {
